@@ -30,7 +30,7 @@ Recursos disponibles
 
 -   **Formato:** ZIP
 
--   **Rango temporal:** archivos recibidos por la por la Procuración General de la Nación en el año AAAA
+-   **Rango temporal:** archivos recibidos por la Procuración General de la Nación en el año AAAA
 
 ### Archivos del recurso
 

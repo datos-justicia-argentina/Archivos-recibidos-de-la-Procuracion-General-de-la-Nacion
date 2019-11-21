@@ -110,7 +110,7 @@ Recursos disponibles
 
 -   **persona_edad (string):** edad del denunciado correspondiente al acto procesal. Si el denunciado es mayor de 65 años toma el valor 65+
 
-### Índice de datos recibidos de la Procuración General de la Nación - AAAA
+### Índice de archivos recibidos de la Procuración General de la Nación - AAAA
 
 -   **Nombre:** indice-archivos-remitidos-pgn-AAAA.csv
 

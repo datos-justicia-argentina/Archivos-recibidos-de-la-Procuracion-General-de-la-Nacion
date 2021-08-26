@@ -9,7 +9,7 @@ http://datos.jus.gob.ar/dataset/archivos-recibidos-de-la-procuracion-general-de-
 
 -   **Tags o Etiquetas:** Procuración General de la Nación, casos, código penal, delitos, instituciones, justicia federal
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Justicia y Política Criminal. Programa Justicia Abierta
+-   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Programa de Justicia Abierta
 
 -   **Autor:** Instituciones firmantes del Convenio Interjurisdiccional de Datos Abiertos de Justicia
 
